@@ -17,7 +17,6 @@ public class Vector {
 	 * Variables registering the coordinates of this vector.
 	 */
 	private final double x,y,z;
-	//tefshuqjksdnoqsndlkc
 	
 	/**
 	 * Creates a new vector with the given coordinates.
